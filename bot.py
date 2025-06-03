@@ -17,3 +17,5 @@ async def on_ready():
             bot.load_extension(f'commands.{filename[:-3]}')
 
 bot.run(TOKEN)
+
+# u r gay
