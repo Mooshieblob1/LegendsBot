@@ -57,7 +57,7 @@ LegendsBot is an experimental project for SAE students to make a bot that serves
 3. **Install dependencies:** This will read the `requirements.txt` file and install all the necessary project dependencies into your virtual environment.
 
    ```bash
-   pip install -r requirements.txt
+   python -m pip install -r requirements.txt
    ```
 
    *Tip: You can open a terminal directly in VS Code (Terminal > New Terminal or \`Ctrl+\`\`).*\\
